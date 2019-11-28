@@ -16,7 +16,7 @@ ssm的整合(spring5)
 
 ### 1.数据库环境
 
-创建一个存放存放员工和部门的表
+创建一个图书表
 
 ```sql
 CREATE DATABASE `ssmbuild`;
